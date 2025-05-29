@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 About Me
-🔹 Data Analyst | SQL Enthusiast | BI Tools Explorer
+🔹 Data Analyst | BI developer
 
-Languages
-Ukrainian – Native
-English – Intermediate
+Languages:
+- Ukrainian – Native
+- English – Intermediate
 
 My stack and tools
