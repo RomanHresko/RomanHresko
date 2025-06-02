@@ -14,4 +14,4 @@ Languages:
 - Tableau
 - Power BI
 - Looker Studio
-- Excel \ Google sheets
+- Excel / Google sheets
