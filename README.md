@@ -12,6 +12,7 @@ Languages:
 - Big Query
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Tableau
-- Power BI
+- Power BI (DAX)
+- Power Query
 - Looker Studio
-- Excel / Google sheets
+- Excel / Google Sheets
